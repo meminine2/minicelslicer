@@ -1,6 +1,6 @@
 # minicelslicer
 
-A quick and cheap traditional animation method
+## A quick and cheap traditional animation method
 
 
 Instructions:
