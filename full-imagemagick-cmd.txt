@@ -1,0 +1,44 @@
+magick img1.jpg -crop 883x498+157+223 img1_crop001.jpg
+magick img1.jpg -crop 883x498+157+863 img1_crop002.jpg
+magick img1.jpg -crop 883x498+157+1503 img1_crop003.jpg
+magick img1.jpg -crop 883x498+157+2144 img1_crop004.jpg
+magick img1.jpg -crop 883x498+157+2783 img1_crop005.jpg
+magick img1.jpg -crop 883x498+1364+223 img1_crop006.jpg
+magick img1.jpg -crop 883x498+1364+863 img1_crop007.jpg
+magick img1.jpg -crop 883x498+1364+1503 img1_crop008.jpg
+magick img1.jpg -crop 883x498+1364+2144 img1_crop009.jpg
+magick img1.jpg -crop 883x498+1364+2783 img1_crop010.jpg
+
+magick img1.jpg -crop 883x498+157+223 img1_crop011.jpg
+magick img1.jpg -crop 883x498+157+863 img1_crop012.jpg
+magick img1.jpg -crop 883x498+157+1503 img1_crop013.jpg
+magick img1.jpg -crop 883x498+157+2144 img1_crop014.jpg
+magick img1.jpg -crop 883x498+157+2783 img1_crop015.jpg
+magick img1.jpg -crop 883x498+1364+223 img1_crop016.jpg
+magick img1.jpg -crop 883x498+1364+863 img1_crop017.jpg
+magick img1.jpg -crop 883x498+1364+1503 img1_crop018.jpg
+magick img1.jpg -crop 883x498+1364+2144 img1_crop019.jpg
+magick img1.jpg -crop 883x498+1364+2783 img1_crop020.jpg
+
+magick img1.jpg -crop 883x498+157+223 img1_crop021.jpg
+magick img1.jpg -crop 883x498+157+863 img1_crop022.jpg
+magick img1.jpg -crop 883x498+157+1503 img1_crop023.jpg
+magick img1.jpg -crop 883x498+157+2144 img1_crop024.jpg
+magick img1.jpg -crop 883x498+157+2783 img1_crop025.jpg
+magick img1.jpg -crop 883x498+1364+223 img1_crop026.jpg
+magick img1.jpg -crop 883x498+1364+863 img1_crop027.jpg
+magick img1.jpg -crop 883x498+1364+1503 img1_crop028.jpg
+magick img1.jpg -crop 883x498+1364+2144 img1_crop029.jpg
+magick img1.jpg -crop 883x498+1364+2783 img1_crop030.jpg
+
+magick img1.jpg -crop 883x498+157+223 img1_crop031.jpg
+magick img1.jpg -crop 883x498+157+863 img1_crop032.jpg
+magick img1.jpg -crop 883x498+157+1503 img1_crop033.jpg
+magick img1.jpg -crop 883x498+157+2144 img1_crop034.jpg
+magick img1.jpg -crop 883x498+157+2783 img1_crop035.jpg
+magick img1.jpg -crop 883x498+1364+223 img1_crop036.jpg
+magick img1.jpg -crop 883x498+1364+863 img1_crop037.jpg
+magick img1.jpg -crop 883x498+1364+1503 img1_crop038.jpg
+magick img1.jpg -crop 883x498+1364+2144 img1_crop039.jpg
+magick img1.jpg -crop 883x498+1364+2783 img1_crop040.jpg
+magick img1.jpg -crop 883x498+1364+2783 img1_crop041.jpg
