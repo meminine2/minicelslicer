@@ -11,7 +11,7 @@ Download MINI CELS BLANK.pdf
 
 Print and draw your cels
 
-Scan it back in with flatbed scanner- should measure W-2552px H-3508px
+Scan the template with flatbed scanner- jpgs should measure W-2552px H-3508px
 
 Put each image in its own folder, rename them all 'img1.jpg', type cmd in the file location and paste the .txt command
 
